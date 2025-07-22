@@ -14,4 +14,5 @@ Outliers were removed using the interquartile range (IQR) method
 The duration (in ms) of detection of local surface traveling waves in the grooves of the cerebral cortex was calculated using the method of assessing the phase delay of slow waves (alpha range).
 The Pearson correlation between the reaction speed and the duration of the traveling waves was calculated: a) the total duration TW for all channels for each subject and for the group b) the total duration TW for each channel (triplet) for each subject d) the pre-stimulus (250 ms) duration TW for each channel (triplet) for each subject e) the poststimulus (750 ms) duration TW for each channel (triplet) for each subject e) 5 poststimulus intervals (250 ms each) duration TW for each channel (triplet) for each subject
 
-Load code and run
+The data for analysis is located at https://zenodo.org/records/16324530
+Load python code and run
